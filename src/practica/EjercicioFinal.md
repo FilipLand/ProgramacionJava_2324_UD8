@@ -11,7 +11,7 @@ El programa debe cumplir, como mínimo, las condiciones siguientes:
 - Uso de al menos un enum y se recomienda que tenga atributos asociados.
 
 ## Serialización:
-- Utiliza la serialización para guardar y recuperar algo en al menos un putno del ejercicio.
+- Utiliza la serialización para guardar y recuperar algo en al menos un punto del ejercicio.
 
 ## Archivo de Datos:
 - A modo de base de datos, obtener la información con la que va a trabajar la aplicación de un fichero CSV. De esta 
